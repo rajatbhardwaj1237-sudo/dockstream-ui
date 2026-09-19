@@ -99,4 +99,4 @@ http://localhost:7090
 ```
 
 # Developer
-JP Mateo (jpmateo022@gmail.com)
+Rajat bhardwaj (Rajatbhardwaj1237@gmail.com)
